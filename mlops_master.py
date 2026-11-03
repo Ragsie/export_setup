@@ -86,6 +86,7 @@ CLASS_MAP = {
     4: {"name": "Toy", "prompts": ["dog toy", "cloth toy", "plush toy", "frisbee", "ball", "stuffed animal"]},
     5: {"name": "Tree", "prompts": ["tree trunk", "bush", "shrub", "plant pot"]},
     6: {"name": "Wall", "prompts": ["brick wall", "wooden fence", "black wooden fence", "building facade", "shed wall"]}
+    7: {"name": "Human", "promts": ["human", "person"]}
 }
 
 ALL_PROMPTS = []
